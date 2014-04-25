@@ -28,8 +28,6 @@ plain_object.is('object');
 plain_object.is('plain');
 ```
 
-***
-
 #### Float number
 ```javascript
 var float_number = TypeOf(1.1);
@@ -41,10 +39,16 @@ float_number.type === 'number' && float_number.subtype === 'float';
 float_number.is('number');
 float_number.is('float');
 ```
+
+*** 
+![Usage demonstration](https://raw.githubusercontent.com/BR0kEN-/TypeOf/gh-pages/usage.png?raw=true)
+***
+
 ## Browser Compatibility
 
 The library will be work in each browser, which support the JavaScript of any version.
 
 ## Try it yourself
 
-[http://br0ken-.github.io/TypeOf/](http://br0ken-.github.io/TypeOf/)
+[http://br0ken-.github.io/TypeOf/](http://br0ken-.github.io/TypeOf/)  
+*Do not forget to open the browser developer console for more feelings. :)*
