@@ -1,0 +1,10 @@
+# Folders
+.idea/
+.workspace/
+$RECYCLE.BIN/
+
+# Files
+Thumbs.db
+.DS_Store
+.htaccess
+Desktop.ini
