@@ -41,3 +41,7 @@ float_number.type === 'number' && float_number.subtype === 'float';
 float_number.is('number');
 float_number.is('float');
 ```
+
+## Try it yourself
+
+[http://br0ken-.github.io/TypeOf/](http://br0ken-.github.io/TypeOf/)
